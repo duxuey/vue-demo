@@ -1,0 +1,24 @@
+{
+  "name": "vue-demo",
+  "version": "1.0.0",
+  "description": "vue练习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duxuey/vue-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duxuey/vue-demo/issues"
+  },
+  "homepage": "https://github.com/duxuey/vue-demo#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "vue": "^2.6.10",
+    "vue-resource": "^1.5.1"
+  }
+}
