@@ -3,13 +3,8 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-import VueJsonp from 'vue-jsonp'
-import axios from 'axios'
 
 Vue.config.productionTip = false
-Vue.prototype.$http = axios
-
-Vue.use(VueJsonp)
 
 /* eslint-disable no-new */
 new Vue({
@@ -18,5 +13,3 @@ new Vue({
   template: '<App/>',
   components: { App }
 })
-
-

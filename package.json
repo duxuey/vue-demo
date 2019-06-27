@@ -16,9 +16,13 @@
     "url": "https://github.com/duxuey/vue-demo/issues"
   },
   "homepage": "https://github.com/duxuey/vue-demo#readme",
-  "dependencies": {},
+  "dependencies": {
+    "webpack": "^4.35.0"
+  },
   "devDependencies": {
+    "axios": "^0.19.0",
     "vue": "^2.6.10",
+    "vue-jsonp": "^0.1.8",
     "vue-resource": "^1.5.1"
   }
 }
